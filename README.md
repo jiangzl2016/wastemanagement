@@ -19,6 +19,11 @@ The backend is written in Django rest framework. Execute the following commands 
 
 This will all the dependencies needed for development, as specified in Pip.lock file.
 
+(4) To run the webapp:
+
+`cd wastemanagement` <br>
+`python manage.py runserver`
+
 
 ###End points: 
 User Register <br>
